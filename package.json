@@ -1,0 +1,22 @@
+{
+  "name": "belajar-typescript",
+  "version": "1.0.0",
+  "description": "Latihan typescript JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimapriaaditya/belajar-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Bima Pria Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimapriaaditya/belajar-typescript/issues"
+  },
+  "homepage": "https://github.com/bimapriaaditya/belajar-typescript#readme"
+}
